@@ -13,7 +13,7 @@ Experienced in C#, .NET, and scalable system design. Passionate about building c
 
 
 - 🌱 I’m currently learning **System Design, Microservices, DDD, and Semantic Kernel with C#**  
-- 💼 I'm interested in **freelancing and building reusable .NET components**  
+- 💼 I'm interested in **building reusable .NET components**  
 - 👨‍💻 All of my projects are available at [https://github.com/mostafaelsayad745](https://github.com/mostafaelsayad745)  
 - 💬 Ask me about **ASP.NET Core, Clean Architecture, CQRS, Entity Framework, MediatR, DDD**  
 - 📫 How to reach me: **mostafaelsayad745@gmail.com**

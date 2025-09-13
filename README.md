@@ -13,7 +13,7 @@
 
 هذا المستودع يحتوي على نظام شامل لإدارة الوثائق والسجلات المخصص لجهات الاعتماد. يهدف النظام إلى ضمان الامتثال لمعايير الجودة الدولية وتوفير إطار عمل منهجي لإدارة جميع أنواع الوثائق والسجلات.
 
-This repository contains a comprehensive Document and Record Management System designed for accreditation authorities. The system aims to ensure compliance with international quality standards and provide a systematic framework for managing all types of documents and records.
+
 
 ## 🎯 الأهداف الرئيسية | Main Objectives
 

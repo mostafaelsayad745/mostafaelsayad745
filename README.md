@@ -4,6 +4,14 @@ Backend Developer | ASP.NET Core Enthusiast | Clean Architecture Advocate
 Experienced in C#, .NET, and scalable system design. Passionate about building clean, maintainable APIs using modern design patterns and domain-driven practices.
 </h3>
 
+## 📋 Quality Management System
+This repository also contains comprehensive Quality Management System documentation in Arabic, including:
+- **Internal Audit Procedures** (QP-10-02-05)
+- **Corrective Actions Procedures** (QP-10-02-06)
+- **Associated Forms and Templates**
+
+👉 [View Quality Management Documentation](./quality-management/README.md)
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/38e5f2c7aeb686d7a1fba0ee0c1907e5.gif" />
 
 <p align="left"> 

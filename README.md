@@ -1,6 +1,6 @@
 # نظام إدارة الوثائق والسجلات | Document & Record Management System
 
-<h2 align="center">🏛️ Quality Management System for Accreditation Authority</h2>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Quality-Management-blue" alt="Quality Management"/>

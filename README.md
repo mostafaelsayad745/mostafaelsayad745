@@ -17,6 +17,7 @@ Experienced in C#, .NET, and scalable system design. Passionate about building c
 - 👨‍💻 All of my projects are available at [https://github.com/mostafaelsayad745](https://github.com/mostafaelsayad745)  
 - 💬 Ask me about **ASP.NET Core, Clean Architecture, CQRS, Entity Framework, MediatR, DDD**  
 - 📫 How to reach me: **mostafaelsayad745@gmail.com**
+- 📚 **Documentation**: Check out the [Management System Documentation](docs/) for quality management procedures and forms
 
 ---
 

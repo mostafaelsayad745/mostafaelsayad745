@@ -1,1 +1,107 @@
-<h1 align="center">Hi 👋, I'm Mostafa A. Elsayad</h1><h3 align="center">Backend Developer | ASP.NET Core Enthusiast | Clean Architecture Advocate  Experienced in C#, .NET, and scalable system design. Passionate about building clean, maintainable APIs using modern design patterns and domain-driven practices.</h3><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><p align="left">   <img src="https://komarev.com/ghpvc/?username=mostafaelsayad745&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaelsayad745" /></p><p align="left">   <a href="https://twitter.com/mostafaelsayad_" target="blank">    <img src="https://img.shields.io/twitter/follow/mostafaelsayad_?logo=twitter&style=for-the-badge" alt="twitter-follow" />  </a> </p>- 🌱 I’m currently learning **System Design, Microservices, DDD, and Semantic Kernel with C#**  - 💼 I'm interested in **freelancing and building reusable .NET components**  - 👨‍💻 All of my projects are available at [https://github.com/mostafaelsayad745](https://github.com/mostafaelsayad745)  - 💬 Ask me about **ASP.NET Core, Clean Architecture, CQRS, Entity Framework, MediatR, DDD**  - 📫 How to reach me: **mostafaelsayad745@gmail.com**---<h3 align="left">Connect with me:</h3><p align="left">  <a href="https://twitter.com/mostafaelsayad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafaelsayad_" height="30" width="40" /></a>  <a href="https://www.linkedin.com/in/mostafa-elsayad-179a6b1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>  <a href="https://fb.com/mostafaelsayad745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a></p>---<h3 align="left">Languages and Tools:</h3><p align="left">  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>   </a>   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>   </a>   <a href="https://www.microsoft.com/sql-server/" target="_blank" rel="noreferrer">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>   </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>   </a>   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>   </a>   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>   </a> </p>---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaelsayad745&show_icons=true&locale=en&layout=compact" alt="mostafaelsayad745" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafaelsayad745&show_icons=true&locale=en" alt="mostafaelsayad745" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaelsayad745&" alt="mostafaelsayad745" /></p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Mostafa%20A.%20Elsayad&fontSize=80&fontAlign=50&fontAlignY=35&desc=Backend%20Developer%20%7C%20.NET%20Enthusiast%20%7C%20Clean%20Architecture%20Advocate&descAlign=50&descAlignY=60&descSize=20" alt="Mostafa A. Elsayad Banner" width="100%"/>
+</div>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="55%" valign="center">
+      <h2>Hi there 👋, I'm Mostafa!</h2>
+      <p>
+        I am a passionate <b>Backend Developer</b> experienced in <b>C#, .NET, and scalable system design</b>. I focus on building maintainable APIs using modern design patterns and domain-driven practices.
+      </p>
+      <br/>
+      <ul>
+        <li>🌱 Currently exploring <b>Microservices, System Design, & Semantic Kernel</b></li>
+        <li>🔭 Working on <b>Clean Architecture & DDD based projects</b></li>
+        <li>💼 Open to <b>Freelance & Collaboration</b> on .NET components</li>
+        <li>💬 Ask me about <b>CQRS, MediatR, Entity Framework, & SQL</b></li>
+        <li>📫 Reach me at: <a href="mailto:mostafaelsayad745@gmail.com">mostafaelsayad745@gmail.com</a></li>
+      </ul>
+      <p>
+        <a href="https://komarev.com/ghpvc/?username=mostafaelsayad745&label=Profile%20views&color=0e75b6&style=flat" target="_blank"><img src="https://komarev.com/ghpvc/?username=mostafaelsayad745&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaelsayad745" /></a>
+      </p>
+    </td>
+    <td width="45%" valign="center">
+       <img align="right" alt="Coding GIF" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">🛠 Languages & Technologies</h3>
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+<br/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+---
+
+<h3 align="left">🚀 Featured Projects</h3>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Project Name 1</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Clean_Architecture-Yes-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pattern-CQRS-blue?style=flat-square" />
+      </div>
+      <p align="center">A brief description of your best project. Mention the problem it solves and the tech used.</p>
+      <div align="center">
+        <a href="LINK_TO_REPO_HERE"><strong>View Code »</strong></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Project Name 2</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Stack-ASP.NET_Core-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Database-SQL-red?style=flat-square" />
+      </div>
+      <p align="center">Description of your second best project. Maybe an e-commerce API or a tool.</p>
+      <div align="center">
+        <a href="LINK_TO_REPO_HERE"><strong>View Code »</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">📊 GitHub Statistics</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafaelsayad745&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaelsayad745&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&layout=compact" height="150" alt="languages graph" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaelsayad745&theme=transparent&hide_border=true&fire=E25822&ring=0e75b6&currStreakLabel=0e75b6" alt="streak graph" />
+</div>
+
+---
+
+<div align="center">
+  <h3>Let's Connect!</h3>
+  <a href="https://www.linkedin.com/in/mostafa-elsayad-179a6b1b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/mostafaelsayad_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://fb.com/mostafaelsayad745" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</div>

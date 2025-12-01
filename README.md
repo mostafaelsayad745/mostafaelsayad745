@@ -49,37 +49,9 @@
 
 </div>
 
----
 
-<h3 align="left">🚀 Featured Projects</h3>
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project Name 1</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Clean_Architecture-Yes-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Pattern-CQRS-blue?style=flat-square" />
-      </div>
-      <p align="center">A brief description of your best project. Mention the problem it solves and the tech used.</p>
-      <div align="center">
-        <a href="LINK_TO_REPO_HERE"><strong>View Code »</strong></a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project Name 2</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Stack-ASP.NET_Core-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Database-SQL-red?style=flat-square" />
-      </div>
-      <p align="center">Description of your second best project. Maybe an e-commerce API or a tool.</p>
-      <div align="center">
-        <a href="LINK_TO_REPO_HERE"><strong>View Code »</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
 
----
+
 
 <h3 align="center">📊 GitHub Statistics</h3>
 <div align="center">

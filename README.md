@@ -54,10 +54,7 @@
 
 
 <h3 align="center">📊 GitHub Statistics</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafaelsayad745&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaelsayad745&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&layout=compact" height="150" alt="languages graph" />
-</div>
+
 <br />
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaelsayad745&theme=transparent&hide_border=true&fire=E25822&ring=0e75b6&currStreakLabel=0e75b6" alt="streak graph" />
